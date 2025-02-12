@@ -30,7 +30,6 @@ public class LoginGUI extends JFrame {
         JLabel titleMiniMarket = new JLabel("<html><b style='font-size:25px'>Mini Market</b></html>");
         leftContent.add(titleMiniMarket);
 
-
         //add on loginGUI
         this.add(leftContent,BorderLayout.WEST);
     }
